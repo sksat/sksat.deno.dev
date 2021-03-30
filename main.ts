@@ -6,6 +6,7 @@ addEventListener("fetch", (event) => {
     </head>
     <body>
       <h1>hello deno</h1>
+      <h2>preview test</h2>
     </body>
   </html>`;
   event.respondWith(
